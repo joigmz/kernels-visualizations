@@ -1,4 +1,4 @@
 # kernels visualizations
 
-Pagina proyecto:
+Página proyecto:
 https://kernels-visualizations.herokuapp.com/
