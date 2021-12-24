@@ -77,7 +77,7 @@ app.layout = html.Div([
     style={ 'display': 'flex', 'justify-content': 'center'}),
     
     html.Div(
-        html.Img(src=app.get_asset_url('img/OUk.png'),
+        html.Img(src=app.get_asset_url('img/OUK.png'),
         style={'width':'50%'}),
     style={ 'display': 'flex', 'justify-content': 'center'}),
 
