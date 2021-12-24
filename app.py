@@ -363,7 +363,7 @@ def Orstein_Uhlenbeck_kernel_fig(Input):
     Output('updatemode-output-container-OUK', 'children'),
     Input('slider-updatemode-OUK', 'value'))
 def update_output_OUK(value):
-    return 'l: {} (sigma = 1/l)'.format(value)
+    return 'l: {} (sigma = 1/l)©'.format(value)
 
 
 @app.callback(
